@@ -1,12 +1,16 @@
 -Download VS Code through https://code.visualstudio.com/
 -Download Git through https://git-scm.com/
--Configure Git by typing:
+-Make an account on https://github.com/
+-Configure Git by in the terminal by typing:
 git config --global user.name "name"
 git config --global user.email "email@example.com"
 -Clone the repository
 -Commit changes
 -Push changes
 -Pull changes
+-Create a repository on Github
+-Connect the local repository
+-Accept pull requests to make changes
 
 Glossary
 -Branch: a seperate section in a repository that allows you to make fixes or changes.
